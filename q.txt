@@ -1,2 +1,8 @@
 // redux structure.....flow of this
-product login page normal //  no filters // 
+product login page normal //  no filters // no sorting  // authentication 
+products // fetch api //
+login sign up // reqres api
+
+
+//chakara ui
+
